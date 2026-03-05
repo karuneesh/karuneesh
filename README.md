@@ -4,8 +4,6 @@
 
 Technical Program Manager and Platform Engineering leader with **20+ years of experience designing and operating enterprise-scale cloud platforms** across **AWS and Azure**.  
 
-I specialize in **cloud platform architecture, infrastructure automation, microservices APIs, and AI-assisted engineering workflows** that accelerate developer productivity and platform reliability.
-
 I specialize in **cloud platform architecture, infrastructure automation, microservices APIs, and AI-assisted engineering workflows** that accelerate developer productivity and platform reliability. I’m a **passionate problem solver focused on platform leadership and engineering excellence**, enabling organizations to build modern, intelligent, and scalable technology foundations that drive innovation, operational maturity, product success, and long-term customer value.
 
 ---
